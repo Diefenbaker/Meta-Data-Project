@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv_series SYSTEM "TV_Series_Rules.dtd">
+
+
+<?xml-stylesheet type="text/xsl" href="TV_Series_3.xsl"?>
+
+
+<tv_series>
+
+	<show id="001">
+		<name>Firefly</name>
+		<rating>9.2</rating>
+		<age class="PG" />
+
+		<desc>Five hundred years into the future, a renegade crew aboard a
+			small space-craft try to
+			survive as they travel the unknown parts of
+			the galaxy, evading warring
+			factions as well
+			as authority agents out to
+			get them.</desc>
+
+		<creator>Joss Whedon</creator>
+		<aired seasons="1">2002-2003</aired>
+
+		<cast>
+			<actor>Nathan Fillion </actor>
+			<actor>Gina Torres </actor>
+			<actor>Alan Tudyk </actor>
+			<actor>Summer Glau </actor>
+		</cast>
+
+		<genres>
+			<genre>Sci-Fi</genre>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+		</genres>
+
+		<image src="images/firefly.jpg" />
+	</show>
+
+
+	<show id="002">
+		<name>Boston Legal</name>
+		<rating>8.5</rating>
+		<age class="15" />
+
+		<desc>Ethically challenged attorney Alan Shore settles in at a wealthy
+			and powerful
+			firm focusing on civil cases. With some help from his
+			friend and mentor,
+			veteran attorney
+			Denny Crane, Shore quickly makes
+			his mark winning cases no one would take,
+			often using less
+			than honest
+			methods. Though his questionable conduct might make him a few
+			enemies
+			along the
+			way, Alan's not to be underestimated, nor will he let
+			trivial things like
+			integrity
+			get in the way of winning a case.</desc>
+
+		<creator>David E. Kelley</creator>
+		<aired seasons="5">2004-2008</aired>
+
+		<cast>
+			<actor>James Spader</actor>
+			<actor>Candice Bergin</actor>
+			<actor>William Shatner</actor>
+		</cast>
+
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Drama</genre>
+			<genre>Crime</genre>
+		</genres>
+
+		<image src="images/bostonlegal.jpg" />
+	</show>
+
+
+	<show id="003">
+
+		<name>Red Dwarf</name>
+		<rating>8.6</rating>
+		<age class="12" />
+
+		<desc>Three million years ago, a radiation leak killed the crew of the
+			mining ship Red Dwarf.
+			The only survivor was Dave Lister, the chicken
+			soup machine repairman.
+			He spends his time
+			on the ship with a
+			holographic projection of Arnold Rimmer (his dead
+			bunkmate), Cat (a
+			life-form
+			that evolved from Dave's cat), Holly (the ships senile
+			computer), and
+			Kryten (a service mechanoid).</desc>
+
+		<creator>Rob Grant, Doug Naylor</creator>
+		<aired seasons="10">1988-</aired>
+
+		<cast>
+			<actor>Craig Charles</actor>
+			<actor>Danny John-Jules</actor>
+			<actor>Chris Barrie</actor>
+			<actor>Robert Llewellyn</actor>
+		</cast>
+
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+
+		<image src="images/reddwarf.jpg" />
+	</show>
+
+
+	<show id="004">
+
+		<name>Dollhouse</name>
+		<rating>7.8</rating>
+		<age class="15" />
+
+		<desc>The show follows an organisation that employs mind-wiped humans
+			known as Dolls, who are implanted
+			with false memories and skills for
+			various missions and tasks. When they
+			are not 'at work' they are
+			living in
+			a real life Dollhouse. One of the Dolls, a young woman named
+			Echo, is
+			slowly starting to become aware of herself
+			and what's going on
+			- all the while somebody on the outside is trying to
+			bring the
+			Dollhouse down while getting
+			closer to Echo - possibly not aware that
+			she is one of the Dolls he's
+			after.
+		</desc>
+
+		<creator>Joss Whedon</creator>
+		<aired seasons="2">2009-2010</aired>
+
+		<cast>
+			<actor>Eliza Dushku</actor>
+			<actor>Harry Lennix</actor>
+			<actor>Summer Glau</actor>
+			<actor>Fran Kranz</actor>
+		</cast>
+
+		<genres>
+			<genre>Sci-Fi</genre>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+		</genres>
+
+		<image src="images/dollhouse.jpg" />
+
+	</show>
+
+
+	<show id="005">
+
+		<name>The Blacklist</name>
+		<rating>8.2</rating>
+		<age class="15" />
+
+		<desc>A highly articulate, erudite and intelligent businessman and
+			mastermind, "Red" Reddington, has
+			been on the '10 Most Wanted' list of
+			various US law enforcement agencies
+			for
+			over 20 years. The legend is
+			that Red is as elusive an Artiste as he is
+			clever; Red built and
+			controls
+			a veritable labyrinth of creative criminal enterprises
+			coupled with
+			the uncanny ability to gather
+			and finesse information at
+			the drop of a hat. On the first day at the
+			FBI for a new female
+			profiler
+			fresh out of Quantico, Red offers to bandy wits with the
+			agency. Red
+			promises to deliver various criminals
+			and plots previously
+			unknown to any branch of law enforcement... and all
+			Red requests in
+			return is to
+			choose his muse.
+		</desc>
+
+		<creator>Jon Bokenkamp</creator>
+		<aired seasons="2">2013-</aired>
+
+		<cast>
+			<actor>James Spader</actor>
+			<actor>Megan Boone</actor>
+			<actor>Diego Klattenhoff</actor>
+		</cast>
+
+		<genres>
+			<genre>Crime</genre>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+		</genres>
+
+		<image src="images/theblacklist.jpg" />
+	</show>
+
+
+	<show id="006">
+
+		<name>Game of Thrones</name>
+		<rating>9.5</rating>
+		<age class="18" />
+
+		<desc>Nine noble families fight for control of the mythical land of
+			Westeros. Political and sexual intrigue is pervasive.
+			Robert
+			Baratheon, King of Westeros, asks his old friend Eddard, Lord Stark,
+			to serve as Hand of the King.
+			Secretly warned that the previous Hand
+			was assassinated, Eddard accepts to
+			investigate further. Meanwhile the
+			Queen's family,
+			the Lannisters, may be hatching a plot to assume
+			power. Across the sea,
+			the last members of the previous and deposed
+			ruling
+			family, the Targaryens, are also scheming to regain the throne.
+			The friction
+			between the house Stark, Lannister, Baratheon and
+			Targaryen leads to full scale war.Amidst the war and political
+			confusion, a
+			neglected military order of misfits,
+			the Night's Watch, is
+			all that stands between the realms of men and icy
+			horrors beyond the
+			protecting wall.</desc>
+
+		<creator>David Benioff, D.B. Weiss</creator>
+		<aired seasons="6">2011-</aired>
+
+		<cast>
+			<actor>Lena Headey</actor>
+			<actor>Peter Dinklage</actor>
+			<actor>Emilia Clarke</actor>
+			<actor>Sean Bean</actor>
+		</cast>
+
+		<genres>
+			<genre>Adventure</genre>
+			<genre>Drama</genre>
+			<genre>Fantasy</genre>
+		</genres>
+
+		<image src="images/gameofthrones.jpg" />
+	</show>
+
+
+	<show id="007">
+
+		<name>The West Wing</name>
+		<rating>8.8</rating>
+		<age class="12" />
+
+		<desc>When the erudite Democrat Josiah "Jed" Bartlet is elected U.S.
+			president, he installs his administration. He places confidants
+			from
+			his electoral campaigns in the White House. Each of these people
+			play
+			a significant role in the Washington power game: the Chief
+			of Staff
+			(Leo McGarry), his deputy (Josh Lyman), Communications
+			Director (Toby
+			Ziegler), deputy (Sam Seaborn),
+			and press secretary (CJ Cregg). We
+			follow these people through
+			many political battles, as well as some
+			personal ones. The demands of
+			office on each character show the
+			personal sacrifice and the forced
+			compromise of ideals and principles
+			for tactical necessity and allows
+			some insights into many aspects of
+			U.S. society and international
+			politics.</desc>
+
+		<creator>Aaron Sorkin</creator>
+		<aired seasons="7">1999-2006</aired>
+
+		<cast>
+			<actor>Martin Sheen</actor>
+			<actor>Rob Lowe</actor>
+			<actor>Allison Janney</actor>
+			<actor>Bradley Whitford</actor>
+		</cast>
+
+		<genres>
+			<genre>Drama</genre>
+			<genre>Comedy</genre>
+		</genres>
+
+		<image src="images/westwing.jpg" />
+
+	</show>
+
+
+	<show id="008">
+
+		<name>Frasier</name>
+		<rating>8.0</rating>
+		<age class="12" />
+
+		<desc>Eminent Boston psychiatrist Frasier Crane, last seen gracing
+			Cheers, has left
+			his life there to start afresh back in his native
+			Seattle. He now has a
+			job at KACL, a city
+			radio station, giving him the
+			chance to spread words of wit and wisdom to
+			the masses.
+			He shares his
+			apartment with his retired cop father, Martin, and his
+			father's
+			physical
+			care assistant, Daphne Moon. Add in brother Niles, Eddie the
+			dog, some
+			bizarre situations
+			and plenty of humour and you've got all
+			the ingredients for an excellent
+			show and worthy
+			successor to Cheers.</desc>
+
+		<creator>David Lee, Peter Casey, David Angell</creator>
+		<aired seasons="11">1993-2004</aired>
+
+		<cast>
+			<actor>Kelsey Grammer</actor>
+			<actor>Jane Leeves</actor>
+			<actor>David Hyde Pierce</actor>
+			<actor>John Mahoney</actor>
+		</cast>
+
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Drama</genre>
+		</genres>
+
+		<image src="images/frasier.jpg" />
+
+	</show>
+
+
+	<show id="009">
+
+		<name>Studio 60 on the Sunset Strip</name>
+		<rating>8.3</rating>
+		<age class="12" />
+
+		<desc>The executive producer of a late night sketch comedy show sparks
+			a media frenzy when he has an on-air
+			meltdown during a live broadcast.
+			The newly appointed network president,
+			Jordan McDeere, has to scramble
+			to
+			make things right by hiring back two former prized employees to
+			become
+			the new executive producers of her network's
+			flagship program.
+			In doing so, she appoints two former members of the team:
+			writer Matt
+			Albie and former sketch producer,
+			now director Danny Tripp, who had
+			left the show years before on terms
+			that were not amicable. Meanwhile
+			Albie and
+			ex-girlfriend Harriet Hayes come to terms with having to
+			work on the show together
+			very soon after their breakup.</desc>
+
+		<creator>Aaron Sorkin</creator>
+		<aired seasons="1">2006-2007</aired>
+
+		<cast>
+			<actor>Matthew Perry</actor>
+			<actor>Amanda Peet</actor>
+			<actor>Bradley Whitford</actor>
+		</cast>
+
+		<genres>
+			<genre>Comedy</genre>
+			<genre>Drama</genre>
+		</genres>
+
+		<image src="images/studio60.jpg" />
+	</show>
+
+
+	<show id="010">
+
+		<name>Terminator: Sarah Conner Chronicles</name>
+		<rating>7.7</rating>
+		<age class="15" />
+
+		<desc>Set after the events in Terminator 2: Judgement Day, Sarah
+			Connor
+			and her son, John, try to stay under the radar from the
+			government,
+			as they plot to destroy the computer network, Skynet, in
+			hopes
+			of preventing Armageddon.</desc>
+
+		<creator>Josh Friedman</creator>
+		<aired seasons="2">2008-2009</aired>
+
+		<cast>
+			<actor>Lena Headey</actor>
+			<actor>Thomas Dekker</actor>
+			<actor>Summer Glau</actor>
+			<actor>Richard T. Jones</actor>
+		</cast>
+
+		<genres>
+			<genre>Action</genre>
+			<genre>Sci-Fi</genre>
+			<genre>Drama</genre>
+		</genres>
+
+		<image src="images/terminatorscc.jpg" />
+	</show>
+
+	<show id="011">
+
+		<name>True Detective</name>
+		<rating>9.3</rating>
+		<age class="18" />
+
+		<desc>In 2012, Louisiana State Police Detectives Rust Cohle and Martin
+			Hart are
+			brought in to revisit a homicide case they worked in 1995. As
+			the inquiry
+			unfolds
+			in present day through seperate interrogations, the
+			two former
+			detectives narrate
+			the store of their investigation,
+			reopening unhealed wounds, and drawing
+			into question
+			their supposed
+			solving of a bizarre ritualistic murder. The timelines
+			braid and
+			converge
+			in 2012 as each man is pulled back into a world they believed
+			they'd
+			left behind.</desc>
+
+		<creator>Nic Pizzolatto</creator>
+		<aired seasons="1">2014-</aired>
+
+		<cast>
+			<actor>Matthew McConaughey</actor>
+			<actor>Woody Harrelson</actor>
+			<actor>Michelle Monaghan</actor>
+		</cast>
+
+		<genres>
+			<genre>Crime</genre>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+		</genres>
+
+		<image src="images/truedetective.jpg" />
+
+	</show>
+
+
+	<show id="012">
+
+		<name>The Practice</name>
+		<rating>7.8</rating>
+		<age class="15" />
+
+		<desc>Bobby Donnell is the head of a struggling Boston law firm that
+			seems
+			to constantly struggle with ethical themes while defending
+			murderers,
+			rapists
+			etc. Jimmy, Eugene, Ellenor and Lindsay are junior
+			attorneys with the
+			firm, the
+			streetwise receptionist, and Helen the
+			firms frequent adversary with the D.A.'s
+			office in this smart and
+			clever series.</desc>
+
+		<creator>David E. Kelley</creator>
+		<aired seasons="8">1997-2004</aired>
+
+		<cast>
+			<actor>Dylan McDermott</actor>
+			<actor>Kelli Williams</actor>
+			<actor>Lara Flynn Boyle</actor>
+			<actor>James Spader</actor>
+		</cast>
+
+		<genres>
+			<genre>Crime</genre>
+			<genre>Drama</genre>
+			<genre>Mystery</genre>
+		</genres>
+
+		<image src="images/thepractice.jpg" />
+	</show>
+
+	<show id="013">
+
+		<name>Marvels Agent Carter</name>
+		<rating>8.4</rating>
+		<age class="12" />
+
+		<desc>In 1946, Peggy Carter is relegated from war duties to a lowly
+			secretarial role
+			in the Strategic Scientific Reserve (SSR). When
+			Howard Stark is accused
+			of treason
+			he secretly recruits Peggy to clear
+			his name with the help of his
+			butler, Edwin Jarvis.
+			She embarks on a
+			crazy journey full of deceit, murder and controversy
+			with a side of
+			wise
+			cracking roommates.</desc>
+
+		<creator>Christopher Markus, Stephen McFeely</creator>
+		<aired seasons="1">2015-</aired>
+
+		<cast>
+			<actor>Hayley Atwell</actor>
+			<actor>James D'Arscy</actor>
+			<actor>Chad Michael Murray</actor>
+		</cast>
+
+		<genres>
+			<genre>Action</genre>
+			<genre>Adventure</genre>
+			<genre>Sci-Fi</genre>
+		</genres>
+
+		<image src="images/agentcarter.jpg" />
+	</show>
+</tv_series>
